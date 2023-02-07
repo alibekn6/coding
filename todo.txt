@@ -5,3 +5,16 @@
 link : https://www.youtube.com/watch?v=OIBIXYLJjsI&list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU&index=2
 
 stream and buffers : https://www.youtube.com/watch?v=r--VL8JywyA
+
+
+
+// Objects and OOP
+// JS in browser
+// Async JS
+// ECMA Script
+// TypeScript
+// React
+// SSR SSG
+
+// SPA -> React
+// Single page applicatio
